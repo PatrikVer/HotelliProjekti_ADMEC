@@ -8,6 +8,9 @@ Toteutetut lis‰ominaisuudet:
 > ilmoittaa loppusumman
 > Tarkistaa onko huone vapaa
 > Huomasin vasta nyt ett‰ oli ˆiden m‰‰r‰ toivottu, en sit‰ kerke‰ laittaa ;( 
+> 2 olennasita aliohjelmaa
+
+Joten mielest‰ni voisi olla arvosanan (4) arvoinen. V‰hint‰‰nkin kivusta. 
 */
 
 
