@@ -1,3 +1,18 @@
+/*
+Patrik Verho 24TietoB
+Hotelli projekti Adeptus Mechanicus Twisttillä. 
+
+Toteutetut lisäominaisuudet:
+> satunnaiset 40 - 300 hotellihuoentta
+> Alennus % 
+> ilmoittaa loppusumman
+> Tarkistaa onko huone vapaa
+> Huomasin vasta nyt että oli öiden määrä toivottu, en sitä kerkeä laittaa ;( 
+*/
+
+
+
+
 #include <iostream>
 #include <string>
 #include <algorithm>
